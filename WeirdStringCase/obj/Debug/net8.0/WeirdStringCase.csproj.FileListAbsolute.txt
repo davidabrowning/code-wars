@@ -1,0 +1,15 @@
+C:\GitRepos\code-wars\WeirdStringCase\bin\Debug\net8.0\WeirdStringCase.exe
+C:\GitRepos\code-wars\WeirdStringCase\bin\Debug\net8.0\WeirdStringCase.deps.json
+C:\GitRepos\code-wars\WeirdStringCase\bin\Debug\net8.0\WeirdStringCase.runtimeconfig.json
+C:\GitRepos\code-wars\WeirdStringCase\bin\Debug\net8.0\WeirdStringCase.dll
+C:\GitRepos\code-wars\WeirdStringCase\bin\Debug\net8.0\WeirdStringCase.pdb
+C:\GitRepos\code-wars\WeirdStringCase\obj\Debug\net8.0\WeirdStringCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitRepos\code-wars\WeirdStringCase\obj\Debug\net8.0\WeirdStringCase.AssemblyInfoInputs.cache
+C:\GitRepos\code-wars\WeirdStringCase\obj\Debug\net8.0\WeirdStringCase.AssemblyInfo.cs
+C:\GitRepos\code-wars\WeirdStringCase\obj\Debug\net8.0\WeirdStringCase.csproj.CoreCompileInputs.cache
+C:\GitRepos\code-wars\WeirdStringCase\obj\Debug\net8.0\WeirdStringCase.sourcelink.json
+C:\GitRepos\code-wars\WeirdStringCase\obj\Debug\net8.0\WeirdStringCase.dll
+C:\GitRepos\code-wars\WeirdStringCase\obj\Debug\net8.0\refint\WeirdStringCase.dll
+C:\GitRepos\code-wars\WeirdStringCase\obj\Debug\net8.0\WeirdStringCase.pdb
+C:\GitRepos\code-wars\WeirdStringCase\obj\Debug\net8.0\WeirdStringCase.genruntimeconfig.cache
+C:\GitRepos\code-wars\WeirdStringCase\obj\Debug\net8.0\ref\WeirdStringCase.dll
